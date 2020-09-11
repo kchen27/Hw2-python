@@ -38,5 +38,5 @@ def run():
   GPA = (gp1 * c1 + gp2 * c2 + gp3 * c3)/(c1 + c2 + c3)
   print(f"Your GPA is: {GPA}")
 
-  if __name__ == "__main__":
+if __name__ == "__main__":
     run()
